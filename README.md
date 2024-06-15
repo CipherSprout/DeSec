@@ -1,7 +1,7 @@
 # DeSec
 A custom blockchain platform for the cybersecurity industry called Decentralized Security (DeSec) which has the potential to be a game-changer, similar to how Bitcoin revolutionized finance and Ethereum transformed smart contracts.
 # Why DeSec is an exciting concept
-Challenges in Cybersecurity
+Challenges in Cybersecurity:
 - Centralized Points of Failure: Many cybersecurity solutions rely on centralized servers, making them vulnerable to hacking attempts.
 - Lack of Transparency: Traditional security measures often lack transparency, making it difficult to track threats and verify the effectiveness of defenses.
 - Data Silos: Information about security vulnerabilities is often fragmented across different organizations, hindering collaboration and hindering a holistic view of the threat landscape.
